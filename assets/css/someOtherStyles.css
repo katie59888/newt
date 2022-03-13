@@ -1,0 +1,64 @@
+.d-flex-volty {
+    display: flex !important;
+}
+
+.p-responsive-volty {
+    padding-right: 40px !important;
+    padding-left: 40px !important;
+}
+
+.p-responsive-volty {
+    padding-right: 16px !important;
+    padding-left: 16px !important;
+}
+
+.py-2-volty {
+    padding-top: 8px !important;
+    padding-bottom: 8px !important;
+}
+
+.py-3-volty {
+    padding-top: 9px !important;
+    padding-bottom: 9px !important;
+}
+
+.py-4-volty {
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+}
+
+.py-5-volty {
+    padding-top: 11px !important;
+    padding-bottom: 11px !important;
+}
+
+.round {
+    border-radius: 6px !important;
+}
+
+.border {
+    border: 1px solid #30363d;
+}
+
+.pd{
+    padding: 24px !important;
+}
+
+.fs-lh {
+    font-size: 16px !important;
+    line-height: 24px !important;
+}
+
+.lsn {
+    list-style: none !important;
+}
+.lh-1 {
+    line-height: 1 !important;
+}
+.mg-1 {
+    margin-left: 16px !important;
+}
+
+.dp-inline-block {
+    display: inline-block !important;
+}

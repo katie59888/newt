@@ -1,0 +1,173 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+    color: #24292f;
+    background-color: #fff;
+}
+
+.py-2{
+    padding-top: 8px !important;
+    padding-bottom: 8px !important;
+}
+
+.list-style-none {
+    list-style: none !important;
+}
+
+.f4 {
+    font-size: 16px !important;
+}
+
+.f4 {
+    font-size: 16px !important;
+}
+
+.py-2 {
+    padding-top: 8px !important;
+    padding-bottom: 8px !important;
+}
+
+.mt-md-0 {
+    margin-top: 0 !important;
+}
+
+.mt-2 {
+    margin-top: 8px !important;
+}
+
+.version-hr-style {
+    border: 0;
+    height: 8px;
+    background-color: #F0F0F0;
+    margin: 20px 0px;
+}
+
+hr {
+    box-sizing: content-box;
+    height: 0;
+}
+
+hr {
+    display: block;
+    unicode-bidi: isolate;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    overflow: hidden;
+    border-style: inset;
+    border-width: 1px;
+}
+
+.version-embed:before, .w-embed:after {
+    content: " ";
+    display: table;
+    grid-column-start: 1;
+    grid-row-start: 1;
+    grid-column-end: 2;
+    grid-row-end: 2;
+}
+
+.version-embed:after {
+    clear: both;
+}
+
+.version-embed:before, .w-embed:after {
+    content: " ";
+    display: table;
+    grid-column-start: 1;
+    grid-row-start: 1;
+    grid-column-end: 2;
+    grid-row-end: 2;
+}
+
+.my-socials {
+    margin-left: 9em;
+}
+
+.community-information {
+    color: #222;
+    font-size: 15px;
+    line-height: 22px;
+}
+
+.community-information-text {
+    color: #222;
+    font-size: 10px;
+    margin-left: 99999999999999999999999999999999rem;
+}
+
+.myBlackquoteText {
+    margin-left: 3em;
+}
+
+blockquote {
+    margin: 0 0 10px 0;
+    padding: 10px 20px;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+blockquote {
+    display: block;
+}
+
+div {
+    display: block;
+}
+
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, button, textarea, p, blockquote, th, td {
+    margin: 0;
+    padding: 0;
+}
+
+p, pre, li, dt, dd, table, code, address {
+    line-height: 1.3em; 
+}
+
+h1 { 
+    font-size: 2em; 
+    margin: 1em 0;
+}
+
+h2 { 
+    font-size: 1.50em; 
+    margin: 1.0em 0 0.87em 0; 
+}
+
+h3 { 
+    font-size: 1.30em; 
+    margin: 1.0em 0 0.87em 0; 
+}
+
+h4 { 
+    font-size: 1.13em; 
+    margin: 1.0em 0 0.88em 0; 
+}
+
+h5 { 
+    font-size: 1.00em; 
+    margin: 1.0em 0 1.00em 0; 
+}
+
+p, pre { 
+    margin: 1em 0; 
+}
+
+pre { 
+    overflow: auto; padding-bottom: .3em;
+}
+
+.follow {
+    box-shadow: inset 0 0 5px 0 #24292f, 0 0 5px 0 #24292f;
+    color: #222;
+    background-color: #ffffff;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-left: 10.7em;
+}

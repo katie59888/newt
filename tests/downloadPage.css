@@ -1,0 +1,190 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #24292e;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+}
+
+button, html [type=button], [type=reset], [type=submit] {
+    -webkit-appearance: button;
+}
+
+input, select, textarea, button {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+
+button, input {
+    overflow: visible;
+}
+
+button, input, select, textarea {
+    font: inherit;
+    margin: 0;
+}
+
+input[type="button" i] {
+    appearance: auto;
+    user-select: none;
+    white-space: pre;
+    align-items: flex-start;
+    text-align: center;
+    cursor: default;
+    color: (black, white);
+    background-color: (rgb(239, 239, 239), rgb(59, 59, 59));
+    box-sizing: border-box;
+    padding: 1px 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: (rgb(118, 118, 118), rgb(133, 133, 133));
+    border-image: initial;
+}
+
+input {
+    text-rendering: auto;
+    color: (black, white);
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    appearance: auto;
+    background-color: (rgb(255, 255, 255), rgb(59, 59, 59));
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+    padding: 1px 2px;
+    border-width: 2px;
+    border-style: inset;
+    border-color: (rgb(118, 118, 118), rgb(133, 133, 133));
+    border-image: initial;
+}
+
+.btn {
+    color: var(--color-btn-text);
+    background-color: var(--color-btn-bg);
+    border-color: var(--color-btn-border);
+    box-shadow: var(--color-btn-shadow),var(--color-btn-inset-shadow);
+    transition: .2s cubic-bezier(0.3, 0, 0.5, 1);
+    transition-property: color,background-color,border-color;
+}
+
+.btn {
+    position: relative;
+    display: inline-block;
+    padding: 5px 16px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    user-select: none;
+    border: 1px solid;
+    border-radius: 6px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+.btn-large {
+    position: relative;
+    padding: .75em 1.5em;
+    font-size: 14px;
+    line-height: 100%;
+    border-radius: .5em;
+}
+
+.btn-download {
+    position: relative;
+    display: inline-block;
+    padding: 15px 20px;
+    font-size: 16px;
+    line-height: 100%;
+    background-color: #0066b8; 
+    border-radius: 0; 
+    border: 1px solid #0066b8;
+    text-decoration: none;
+}
+
+.btn-download span {
+    font-family: 'Segoe UI','Helvetica Neue','Helvetica',Arial,sans-serif; 
+    color: #fff; 
+    margin-left: 1em;
+}
+
+.btn-download img {
+    position: absolute; 
+    left: 15px; 
+    height: 18px;
+}
+
+.btn-download:hover {
+    background: #3d3dff;
+}
+
+.btn-danger {
+    color: #cf222e;
+    background: #fff;
+    font-family: "Segoe UI",sans-serif;
+    border: 1px solid #d0d7de;
+    border-radius: 5px;
+    text-align: center;
+    padding: 6px;
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+.btn-danger:hover {
+    color: #fff;
+    background: #cf222e;
+    box-shadow: 0 0 30px #cf222e;
+    border: 1px solid #cf222e;
+}
+
+.btn-modern{
+    color: #fff;
+    background: #10101E;
+    font-family: "Segoe UI",sans-serif;
+    width: 300px;
+    padding: 15px 10px;
+    border: 3px solid #2E94E3;
+    border-radius: 5px;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 20px;
+}
+
+.btn-modern:hover{
+    background: #2E94E3;
+    box-shadow: 0 0 30px #2E94E3;
+}
+
+
+.edit_picture {
+    margin-top: 50px;
+}
+
+.edit-h1_post {
+    color: #fff;
+    text-align: center;
+}
+
+.about-the_app {
+    color: #b5b7b8;
+    text-align: center;
+    font-size: 20px;
+}
+
+.inform {
+    color: #fff;
+    margin-top: 20px;
+    text-align: center;
+}
