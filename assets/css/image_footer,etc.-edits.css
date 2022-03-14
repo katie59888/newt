@@ -2,3 +2,4 @@
 .change-profile-photo-picture-color:hover { background: t; }
 .footer { background-color: #444; border: 1px solid #666; font-size: 15px; color: #fff; padding: 10px 10px; }
 .footer { height: 110px; width: 100%; }
+.bk { margin: 0; } .bk:hover { background: #666; }
