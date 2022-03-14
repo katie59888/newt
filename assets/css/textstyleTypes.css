@@ -73,3 +73,7 @@ strong {
     font-feature-settings: "ss02" on,"ss01" on;
     font-weight: 400;
 }
+
+me-link {
+    font-weight: 600;
+}
