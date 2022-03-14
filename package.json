@@ -1,0 +1,23 @@
+{
+  "name": "my-personal-html-site-project",
+  "version": "1.0.0",
+  "description": "My personal website where I write code for fun once in a while when I'm bored.",
+  "main": "window.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Weh-gh/My-personal-html-site-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Weh-gh/My-personal-html-site-project/issues"
+  },
+  "homepage": "https://github.com/Weh-gh/My-personal-html-site-project#readme"
+}
