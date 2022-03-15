@@ -4,7 +4,7 @@
   "description": "My personal website where I write code for fun once in a while when I'm bored.",
   "main": "window.js",
   "directories": {
-    "test": "tests"
+    "start": "electron ."
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
