@@ -3,21 +3,21 @@
   "version": "1.0.0",
   "description": "My personal website where I write code for fun once in a while when I'm bored.",
   "main": "window.js",
-  "directories": {
-    "start": "electron ."
-  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Weh-gh/My-personal-html-site-project.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "weh",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Weh-gh/My-personal-html-site-project/issues"
   },
-  "homepage": "https://github.com/Weh-gh/My-personal-html-site-project#readme"
+  "homepage": "https://github.com/Weh-gh/My-personal-html-site-project#readme",
+  "dependencies": {
+    "electron": "^17.1.2"
+  }
 }
