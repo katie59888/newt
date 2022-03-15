@@ -2,7 +2,7 @@
   "name": "my-personal-html-site-project",
   "version": "1.0.0",
   "description": "My personal website where I write code for fun once in a while when I'm bored.",
-  "main": "window.js",
+  "main": "desktop.js",
   "directories": {
   },
   "scripts": {
