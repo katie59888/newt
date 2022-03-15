@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "My personal website where I write code for fun once in a while when I'm bored.",
   "main": "desktop.js",
-  "directories": {
-  },
+  "directories": {},
   "scripts": {
     "start": "electron ."
   },
