@@ -171,3 +171,10 @@ pre {
     text-decoration: none;
     margin-left: 10.7em;
 }
+
+.container {
+    padding-right: 50px;
+    padding-left: 50px;
+    margin-right: auto;
+    margin-left: auto;
+}

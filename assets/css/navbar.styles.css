@@ -46,8 +46,14 @@ nav {
 }
 
 .nav-links a:hover {
-    color: #d0d7de;
+    color: #444;
+    font-weight: 600;
+    font-size: 16px;
     border-bottom: 4px solid #fff;
+}
+
+.nav-links-bg a:hover {
+    background: #eee;
 }
 
 .burger {
