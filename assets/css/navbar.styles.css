@@ -10,7 +10,7 @@ nav {
     align-items: center;
     min-height: 7vh;
     background-color: #3178c6;
-    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji"-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+    font-family: -apple-system, BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji"-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
 }
 
 .logo {
@@ -19,10 +19,10 @@ nav {
     letter-spacing: 5px;
     font-size: 20px;
     text-decoration: none;
-    margin-left: 1em;
 }
 
 .nav-links {
+    text-align: center !important;
     display: flex;
     justify-content: space-around;
     width: 35%;
@@ -35,25 +35,23 @@ nav {
 .nav-links a {
     color: #ffffff;
     text-decoration: none;
-    text-align: center;
+    text-align: right;
     align-items: center;
     letter-spacing: 3px;
+    padding: 15px;
     font-weight: 600;
     font-size: 14px;
-    padding: 24px 15px;
     white-space: nowrap;
     border-bottom: 4px solid transparent;
 }
 
 .nav-links a:hover {
-    color: #444;
+    color: #eee;
     font-weight: 600;
-    font-size: 16px;
-    border-bottom: 4px solid #fff;
 }
 
 .nav-links-bg a:hover {
-    background: #eee;
+    empty-cells: show;
 }
 
 .burger {
