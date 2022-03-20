@@ -57,6 +57,57 @@ input {
     border-image: initial;
 }
 
+.buttonLarge-CC00FF22 {
+    border-radius: 28px;
+    font-size: 20px;
+    padding: 16px 32px;
+}
+
+.button-CC00FF22 {
+    border-radius: 50px;
+    line-height: 24px;
+    cursor: pointer;
+    font-weight: 500;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+button {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background-color: transparent;
+}
+
+button {
+    appearance: auto;
+    text-rendering: auto;
+    color: -internal-light-dark(black, white);
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: center;
+    cursor: default;
+    background-color: -internal-light-dark(rgb(239, 239, 239), rgb(59, 59, 59));
+    box-sizing: border-box;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+    padding: 1px 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+    border-image: initial;
+}
+
 .btn {
     color: var(--color-btn-text);
     background-color: var(--color-btn-bg);
@@ -140,7 +191,7 @@ input {
     border: 1px solid #cf222e;
 }
 
-.btn-modern{
+.btn-modern {
     color: #fff;
     background: #10101E;
     font-family: "Segoe UI",sans-serif;
@@ -153,7 +204,8 @@ input {
     font-size: 20px;
 }
 
-.btn-modern:hover{
+.btn-modern:hover {
     background: #2E94E3;
     box-shadow: 0 0 30px #2E94E3;
 }
+
