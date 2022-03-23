@@ -1,5 +1,5 @@
 {
-  "name": "My-personal-html-site-project",
+  "name": "my-personal-html-site-project",
   "version": "1.0.0",
   "description": "My personal website where I write code for fun once in a while when I'm bored.",
   "main": "/src/App.js",
@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Weh-gh/My-personal-html-site-project.git"
+    "url": "git+https://github.com/Weh-gh/my-personal-html-site-project.git"
   },
   "keywords": [],
   "author": "Weh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Weh-gh/My-personal-html-site-project/issues"
+    "url": "https://github.com/Weh-gh/my-personal-html-site-project/issues"
   },
-  "homepage": "https://github.com/Weh-gh/My-personal-html-site-project#readme",
+  "homepage": "https://github.com/Weh-gh/my-personal-html-site-project#readme",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.4",
