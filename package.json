@@ -1,8 +1,8 @@
 {
-  "name": "my-personal-html-site-project",
+  "name": "My-personal-html-site-project",
   "version": "1.0.0",
   "description": "My personal website where I write code for fun once in a while when I'm bored.",
-  "main": "./src/App.js",
+  "main": "/src/App.js",
   "directories": {},
   "scripts": {
     "start": "react-scripts start",
@@ -30,5 +30,17 @@
     "react-dom": "^17.0.2",
     "react-scripts": "^5.0.0",
     "web-vitals": "^2.1.4"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
