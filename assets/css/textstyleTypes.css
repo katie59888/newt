@@ -44,7 +44,6 @@ strong {
     text-decoration: underline;
 }
 
-
 .wavy-text-decoration {
     text-decoration: wavy;
 }
@@ -81,6 +80,11 @@ me-link {
 h1 { 
     font-size: 2em; 
     margin: 1em 0;
+}
+
+h1.boxTitle_H1 {
+    font-size: 17px;
+    font-weight: 600;
 }
 
 h2 { 

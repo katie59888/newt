@@ -1,33 +1,33 @@
-.d-flex-volty {
+.d-flex-weh {
     display: flex !important;
 }
 
-.p-responsive-volty {
+.p-responsive-weh {
     padding-right: 40px !important;
     padding-left: 40px !important;
 }
 
-.p-responsive-volty {
+.p-responsive-weh {
     padding-right: 16px !important;
     padding-left: 16px !important;
 }
 
-.py-2-volty {
+.py-2-weh {
     padding-top: 8px !important;
     padding-bottom: 8px !important;
 }
 
-.py-3-volty {
+.py-3-weh {
     padding-top: 9px !important;
     padding-bottom: 9px !important;
 }
 
-.py-4-volty {
+.py-4-weh {
     padding-top: 10px !important;
     padding-bottom: 10px !important;
 }
 
-.py-5-volty {
+.py-5-weh {
     padding-top: 11px !important;
     padding-bottom: 11px !important;
 }
@@ -36,29 +36,29 @@
     border-radius: 6px !important;
 }
 
-.border {
+.border-weh {
     border: 1px solid #30363d;
 }
 
-.pd{
+.pd-weh {
     padding: 24px !important;
 }
 
-.fs-lh {
+.fs-lh-weh {
     font-size: 16px !important;
     line-height: 24px !important;
 }
 
-.lsn {
+.lsn-weh {
     list-style: none !important;
 }
-.lh-1 {
+.lh-1-weh {
     line-height: 1 !important;
 }
-.mg-1 {
+.mg-1-weh {
     margin-left: 16px !important;
 }
 
-.dp-inline-block {
+.d-inline-block-weh {
     display: inline-block !important;
 }
