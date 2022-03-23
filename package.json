@@ -2,10 +2,13 @@
   "name": "my-personal-html-site-project",
   "version": "1.0.0",
   "description": "My personal website where I write code for fun once in a while when I'm bored.",
-  "main": "desktop.js",
+  "main": "./src/App.js",
   "directories": {},
   "scripts": {
-    "start": "electron ."
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "repository": {
     "type": "git",
