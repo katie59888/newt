@@ -15,7 +15,19 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
   
     <script src="https://kit.fontawesome.com/a7e348920d.js" crossorigin="anonymous"></script>
-  
+
+    <style type="text/css">
+      * {
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        padding: 0;
+        background-color: #eee;
+      }
+    </style>
 </head>
 <body>
 
@@ -25,11 +37,46 @@
 
    -->
 
+   <div class="Header">
+     <div class="logo">
+       <img
+        src="https://avatars.githubusercontent.com/u/87272164?v=4" 
+        style="margin: 0; padding: 0; height: 30vh; width: auto; position: absolute; top: 50%; left: 50%; transform: translate(-50%,-150%); border-radius: 50%;"
+        alt="Weh logo" 
+       >
+       <style type="text/css">
+         .Header {
+           margin: 0;
+         }
+
+         .logo {
+           margin: 0;
+         }
+
+         div.Header > div.logo > img {
+           margin: 0;
+         }
+
+         div.redirect {
+          display: flex;
+          text-align: center;
+          justify-content: center;
+          position: absolute;
+          top: 50%;
+          left: 50%;
+          transform: translate(-50%,-50%);
+         }
+
+       </style>
+     </div>
+   </div>
    <div class="redirect">
      <h1>Redirecting...</h1>
    </div>
    <div class="" style="margin-top: 50px; position: absolute; top: 50%; left: 50%; transform: translate(-50%,-1%);">
-      <i class="fas fa-spinner fa-pulse"></i>
+      <i
+        class="fas fa-spinner fa-pulse"
+      ></i>
    </div>
 
   
